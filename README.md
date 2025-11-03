@@ -26,34 +26,34 @@ Soy **Ismael Astillero**, un programador web e informático apasionado por el de
 
 ## 🛠️ Habilidades
 
--Montaje y mantenimiento de equipos hardware
--Instalación de sistemas operativos
--Configuración de Linux
--Gestión de Windows Server y Linux Server
--HTML/CSS
--JavaScript
--Java
--JPA y JSP
--PHP
--Angular
--Node.js
--MySQL
--SQL
--PL/SQL
--Git
--GitHub
--Docker
--Wordpress
--Plugin de Wordpress: Elementor
--React
+- Montaje y mantenimiento de equipos hardware
+- Instalación de sistemas operativos
+- Configuración de Linux
+- Gestión de Windows Server y Linux Server
+- HTML/CSS
+- JavaScript
+- Java
+- JPA y JSP
+- PHP
+- Angular
+- Node.js
+- MySQL
+- SQL
+- PL/SQL
+- Git
+- GitHub
+- Docker
+- Wordpress
+- Plugin de Wordpress: Elementor
+- React
 
 ---
 
 ## 🛠️ Proyectos
 
--[HiddenClue](https://hiddenclue.org)
--[PixelPower](https://pixelpower.onrender.com)
--[Astivero-x3d](https://astivero-x3d.github.io/astiverox3d.github.io)
+- [HiddenClue](https://hiddenclue.org)
+- [PixelPower](https://pixelpower.onrender.com)
+- [Astivero-x3d](https://astivero-x3d.github.io/astiverox3d.github.io)
 
 ---
 
